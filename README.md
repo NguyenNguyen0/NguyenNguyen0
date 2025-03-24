@@ -21,12 +21,15 @@
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 
-<!-- ---
+---
 
 ## 📊 GitHub Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NguyenNguyen0&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+
+![NguyenNguyen0's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenNguyen0&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NguyenNguyen0&theme=radical)   -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NguyenNguyen0&theme=radical)  
 
 ---
 
