@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=cc2eb4&width=435&lines=Hello,+I%27m+Nguyen+Nguyen!;Backend+Developer;ReactJS+|+FastAPI+|+MongoDB)](https://git.io/typing-svg)
 
-<h2 style="background-color: cc2eb4;">
+<h2>
   <span>💻</span>
   <strong>About Me</strong>
 </h2>
@@ -18,7 +18,7 @@
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%">
 
 ---
-<h1  style="background-color: cc2eb4;">
+<h1>
   <strong">🛠 Tech Stack</strong>
 </h1>
 
@@ -33,7 +33,7 @@
 
 ---
 
-<h2 style="background: linear-gradient(to top, #cc2eb4,rgb(243, 154, 231));">
+<h2>
   <span>📊</span>
   <strong>GitHub Stats</strong>
 </h2>
@@ -45,7 +45,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&theme=radical)  
 
 ---
-<h2 style="background: linear-gradient(to top, #cc2eb4,rgb(243, 154, 231));">
+<h2>
   <span>📌</span>
   <strong>Featured Projects</strong>
 </h2>
@@ -55,7 +55,7 @@
 <!-- - 🌍 **[Open Source Contributions](https://github.com/NguyenNguyen0)**   -->
 
 ---
-<h2 style="background: linear-gradient(to top, #cc2eb4,rgb(243, 154, 231));">
+<h2>
   <span>🌍</span>
   <strong>Connect with Me</strong>
 </h2>
