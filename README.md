@@ -2,9 +2,9 @@
 <img width="100%" src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" />
 
 <!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=f9f7f2&width=435&lines=Hello,+I%27m+Nguyen+Nguyen!;Backend+Developer;ReactJS+|+FastAPI+|+MongoDB" alt="Typing SVG" />
+<div align="center" with="100%">
+  <a href="https://git.io/typing-svg" with="100%">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=f9f7f2&width=435&center=true&vCenter=true&lines=Hello,+I%27m+Nguyen+Nguyen!;Backend+Developer;ReactJS+|+FastAPI+|+MongoDB" alt="Typing SVG" with="100%" />
   </a>
 </div>
 
