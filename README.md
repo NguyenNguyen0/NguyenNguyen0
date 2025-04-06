@@ -22,7 +22,7 @@
 <!-- Connect with Me -->
 <h2>🌍 <strong>Connect with Me</strong></h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/nguyên-nguyễn-626171313">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
