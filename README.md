@@ -79,7 +79,7 @@
   </summary>
   <div align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenNguyen0&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=NguyenNguyen0&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=NguyenNguyen0&theme=radical" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&theme=radical" alt="Top Languages" />
   </div>
 </details>
