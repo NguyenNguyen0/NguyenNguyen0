@@ -96,10 +96,10 @@
     <div>
       <h3>🤖Smart chatbot AI</h3>
       <a href='https://github.com/NguyenNguyen0/chatbot-fe'>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical&cache_seconds=60"/>
       </a>
       <a href='https://github.com/NguyenNguyen0/chatbot-be'>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical&cache_seconds=60" />
       </a>
     </div>
   </div>
