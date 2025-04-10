@@ -79,7 +79,7 @@
   </summary>
   <div align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenNguyen0&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenNguyen0&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=NguyenNguyen0&theme=radical" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&theme=radical" alt="Top Languages" />
   </div>
 </details>
@@ -92,9 +92,13 @@
     <h2>📌 <strong>Featured Projects</strong></h2>
   </summary>
 
-  <ul>
-    <li>🚀 <strong><a href="https://github.com/NguyenNguyen0/chatbot-fe">Chat Bot</a></strong> – ChatBot app with ReactJS and FastAPI!</li>
-  </ul>
+  <div align="center">
+    <div>
+      <h3>🤖Smart chatbot AI</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical" />
+    </div>
+  </div>
 </details>
 
 <hr />
