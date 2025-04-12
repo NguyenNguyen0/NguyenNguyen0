@@ -34,10 +34,10 @@
   </a>
 </p>
 
-<hr />
-
 <!-- Gif divider -->
+<!--
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
+-->
 
 <hr />
 
@@ -71,19 +71,6 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
 
-
-<!-- GitHub Stats -->
-<details>
-  <summary>
-    <h2>📊 <strong>GitHub Stats</strong></h2>
-  </summary>
-  <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenNguyen0&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=NguyenNguyen0&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
-</details>
-
 <hr />
 
 <!-- Featured Projects -->
@@ -102,6 +89,20 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical&cache_seconds=60" />
       </a>
     </div>
+  </div>
+</details>
+
+<hr />
+
+<!-- GitHub Stats -->
+<details>
+  <summary>
+    <h2>📊 <strong>GitHub Stats</strong></h2>
+  </summary>
+  <div align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenNguyen0&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=NguyenNguyen0&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&theme=radical" alt="Top Languages" />
   </div>
 </details>
 
