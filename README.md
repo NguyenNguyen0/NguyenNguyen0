@@ -1,20 +1,21 @@
 <!-- Profile GIF -->
-<img width="100%" src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" />
-
-<!-- Typing SVG -->
-<div align="center" with="100%">
-  <a href="https://git.io/typing-svg" with="100%">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=f9f7f2&width=435&center=true&vCenter=true&lines=Hello,+I%27m+Nguyen+Nguyen!;Backend+Developer;ReactJS+|+FastAPI+|+MongoDB" alt="Typing SVG" with="100%" />
-  </a>
+<div align="center">
+  <img src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" width="100%" />
+  <h1>👋 Hi, I'm Nguyen Nguyen!</h1>
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=1200&lines=Backend+Developer+with+a+Flair+for+Frontend;Python+%7C+JavaScript+%7C+ReactJS;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    </a>
+  </p>
 </div>
 
 <!-- About Me -->
 <h2>💻 <strong>About Me</strong></h2>
 
 <ul>
-  <li>Passionate software developer specialized in <strong>Python</strong> and <strong>JavaScript</strong>.</li>
-  <li>Experienced in building modern web applications with <strong>ReactJS, and Flask</strong>.</li>
-  <li>Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</li>
+  <li>💖Passionate software developer specialized in <strong>🐍Python</strong> and <strong>🌐JavaScript</strong>.</li>
+  <li>🌟Experienced in building modern web applications with <strong>ReactJS, and Flask</strong>.</li>
+  <li>🧑‍💻Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</li>
 </ul>
 
 <hr />
@@ -33,11 +34,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-
-<!-- Gif divider -->
-<!--
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
--->
 
 <hr />
 
