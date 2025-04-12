@@ -1,13 +1,14 @@
 <!-- Profile GIF -->
 <div align="center">
   <img src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" width="100%" />
-  <h1>👋 Hi, I'm Nguyen Nguyen!</h1>
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=1200&lines=Backend+Developer+with+a+Flair+for+Frontend;Python+%7C+JavaScript+%7C+ReactJS;Building+Scalable+Web+Apps" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Nguyen+Nguyen!;Backend+Developer+with+a+Flair+for+Frontend;Python+%7C+JavaScript+%7C+ReactJS;Building+Scalable+Web+Apps" alt="Typing SVG" />
     </a>
   </p>
 </div>
+
+<hr />
 
 <!-- About Me -->
 <h2>💻 <strong>About Me</strong></h2>
@@ -18,7 +19,6 @@
   <li>🧑‍💻Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</li>
 </ul>
 
-<hr />
 
 <!-- Connect with Me -->
 <h2>🌍 <strong>Connect with Me</strong></h2>
@@ -35,7 +35,6 @@
   </a>
 </p>
 
-<hr />
 
 <!-- Tech Stack -->
 <h2>🛠 <strong>Tech Stack</strong></h2>
@@ -106,8 +105,6 @@
 
 <!-- Outro -->
 <p align="center"><strong>⭐️ Feel free to check out my repositories and connect with me!</strong></p>
-
-<hr />
 
 <!-- Contribution Snake Animation -->
 <picture>
