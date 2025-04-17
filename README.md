@@ -3,7 +3,7 @@
   <img src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" width="100%" />
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Nguyen+Nguyen!;Backend+Developer+with+a+Flair+for+Frontend;Python+%7C+JavaScript+%7C+ReactJS;Building+Scalable+Web+Apps" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nguyen+Nguyen!;Backend+Developer+with+a+Flair+for+Frontend;Python+%7C+JavaScript+%7C+ReactJS;Building+Scalable+Web+Apps" alt="Typing SVG" />
     </a>
   </p>
 </div>
