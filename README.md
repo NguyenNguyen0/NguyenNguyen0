@@ -19,8 +19,7 @@ Building Scalable Web Apps
 <!-- About Me -->
 <table>
   <tr>
-    <td>
-      <td width="50%">
+    <td width="50%">
       <h2 align="center">🤩 <strong>About Me</strong></h2>
       <p align="center">
         <a href="https://www.linkedin.com/in/nguyên-nguyễn-626171313">
