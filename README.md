@@ -8,75 +8,79 @@
   </p>
 </div>
 
-<hr />
 
 <!-- About Me -->
-<h2>💻 <strong>About Me</strong></h2>
+<div align="center">
+  <h1 align="center">🤩 <strong>About Me</strong></h1>
 
-<ul>
-  <li>💖Passionate software developer specialized in <strong>🐍Python</strong> and <strong>🌐JavaScript</strong>.</li>
-  <li>🌟Experienced in building modern web applications with <strong>ReactJS, and Flask</strong>.</li>
-  <li>🧑‍💻Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</li>
-</ul>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nguyên-nguyễn-626171313">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="https://github.com/NguyenNguyen0">
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://leetcode.com/nguyentrung918">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
+  </p>
 
+  <div>
+    <h3>💖Passionate software developer specialized in <strong>🐍Python</strong> and <strong>🌐JavaScript</strong>.</h3>
+    <h3>🌟Experienced in building modern web applications with <strong>ReactJS, and FastAPI</strong>.</h3>
+    <h3>🧑‍💻Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</h3>
+  </div>
 
-<!-- Connect with Me -->
-<h2>🌍 <strong>Connect with Me</strong></h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nguyên-nguyễn-626171313">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/NguyenNguyen0">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/nguyentrung918">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=radical&row=1&column=6&margin-w=15&margin-h=20" height="130" alt="trophy graph"  /> -->
+</div>
 
 <!-- Tech Stack -->
-<h2>🛠 <strong>Tech Stack</strong></h2>
-<h3 align="center">📖 Programming Languages</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-</div>
+<h2 align="center">🛠 <strong>Tech Stack</strong></h2>
 
-<h3 align="center">🌐 Frontend</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-</div>
+<table>
+  <!-- Programming Languages & Tools -->
+  <tr>
+    <td colspan="1" align="center">
+      <h3>📖 Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+      <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+      <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+      <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+      <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo" />
+    </td>
+    <td colspan="1" align="center">
+      <h3>🔧 Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+      <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+      <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
+      <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo" />
+      <img src="https://skillicons.dev/icons?i=npm" height="50" alt="npm logo" />
+    </td>
+  </tr>
 
-<h3 align="center">🖥️ Backend</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
-</div>
-
-<h3 align="center">🔧 Tools</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo"  />
-</div>
-
+  <!-- Frontend & Backend -->
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
+      <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+      <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+      <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🧠 Backend</h3>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" />
+      <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+      <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgres logo" />
+    </td>
+  </tr>
+</table>
 
 <hr />
 
@@ -136,8 +140,6 @@
   </div>
 </details>
 
-<hr />
-
 <!-- GitHub Stats -->
 <details>
   <summary>
@@ -149,8 +151,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&theme=radical" alt="Top Languages" />
   </div>
 </details>
-
-<hr />
 
 <!-- Outro -->
 <p align="center"><strong>⭐️ Feel free to check out my repositories and connect with me!</strong></p>
