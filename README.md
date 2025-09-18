@@ -1,7 +1,7 @@
 <!-- Trophy Graph -->
 <!--
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=radical&row=1&column=6&margin-w=15&margin-h=20" height="100" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=radical&row=1&column=6&margin-w=15&margin-h=20" height="100" alt="trophy graph">
 </div>
 -->
 
@@ -22,7 +22,7 @@
     <td colspan="2">
       <p align="center">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&lines=%E2%98%85+About+Me+%E2%98%85" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=%E2%98%85+About+Me+%E2%98%85;Fullstack+Developer" alt="Typing SVG">
         </a>
       </p>
       <p align="center">
@@ -104,15 +104,12 @@
     </td>
   </tr>
 </table>
-
 <hr>
-
 <!-- Featured Projects Section -->
 <details open>
   <summary>
     <h2>📌 <strong>Featured Projects</strong></h2>
   </summary>
-
   <div align="center">
     <div>
       <h3>🤖 Fullstack Chatbot AI</h3>
@@ -125,7 +122,6 @@
       </a>
     </div>
   </div>
-
   <div align="center">
     <div>
       <h3>🖼️ Fullstack Album Web App</h3>
@@ -138,7 +134,6 @@
       </a>
     </div>
   </div>
-
   <div align="center">
     <div>
       <h3>🍻 Table Reservation Management Desktop App</h3>
@@ -151,7 +146,6 @@
       </a>
     </div>
   </div>
-
   <div align="center">
     <div>
       <h3>💸 Python Calculating Bills CLI App</h3>
