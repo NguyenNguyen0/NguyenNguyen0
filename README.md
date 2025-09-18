@@ -13,27 +13,23 @@
 </p>
 
 <!-- About Me Section -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=%E2%98%85+About+Me+%E2%98%85;Fullstack+Developer" alt="Typing SVG">
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nguyentrung918">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/NguyenNguyen0">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/nguyentrung918">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</div>
 <table>
-  <tr>
-    <td colspan="2">
-      <div align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=%E2%98%85+About+Me+%E2%98%85;Fullstack+Developer" alt="Typing SVG">
-        </a>
-      </div>
-      <div align="center">
-        <a href="https://www.linkedin.com/in/nguyentrung918">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-        </a>
-        <a href="https://github.com/NguyenNguyen0">
-          <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-        </a>
-        <a href="https://leetcode.com/nguyentrung918">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-        </a>
-      </div>
-    </td>
-  </tr>
   <tr>
     <td>
       <h3>💖 Passionate software developer specialized in <strong>🐍 Python</strong> and <strong>🌐 JavaScript</strong>.</h3>
@@ -45,14 +41,15 @@
       <img src="imgs/typing.gif" alt="Typing" width="100%">
     </td>
   </tr>
-  <!-- Tech Stack Section -->
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=%E2%9E%B6+Tech+Stack+%E2%9E%B6;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG">
-      </a>
-    </td>
-  </tr>
+</table>
+
+<!-- Tech Stack Section -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=%E2%9E%B6+Tech+Stack+%E2%9E%B6;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG">
+  </a>
+</div>
+<table>
   <tr>
     <td align="center" width="50%">
       <h3>📖 Programming Languages</h3>
