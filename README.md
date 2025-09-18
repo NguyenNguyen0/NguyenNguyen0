@@ -113,10 +113,10 @@
     <h3>🤖 Fullstack Chatbot AI</h3>
     <p>Chatbot web app with Ollama</p>
     <a href="https://github.com/NguyenNguyen0/chatbot-fe">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical&cache_seconds=60" alt="Chatbot Frontend">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical&cache_seconds=60" alt="Chatbot Frontend">
     </a>
     <a href="https://github.com/NguyenNguyen0/chatbot-be">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical&cache_seconds=60" alt="Chatbot Backend">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical&cache_seconds=60" alt="Chatbot Backend">
     </a>
   </div>
   <div align="center">
@@ -125,25 +125,25 @@
     <a href="https://github.com/NguyenNguyen0/album-fe">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-fe&theme=radical&cache_seconds=60" alt="Album Frontend">
     </a>
-    <a href="https://github.com/NguyenNguyen0/album-be">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-be&theme=radical&cache_seconds=60" alt="Album Backend">
+    <a href="https://self-github.com/NguyenNguyen0/album-be">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-be&theme=radical&cache_seconds=60" alt="Album Backend">
     </a>
   </div>
   <div align="center">
     <h3>🍻 Table Reservation Management Desktop App</h3>
     <p>Table reservation management desktop app built with JavaFX.</p>
     <a href="https://github.com/NguyenNguyen0/HuongBien">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien&theme=radical&cache_seconds=60" alt="HuongBien">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien&theme=radical&cache_seconds=60" alt="HuongBien">
     </a>
     <a href="https://github.com/NguyenNguyen0/HuongBien2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien2&theme=radical&cache_seconds=60" alt="HuongBien2">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien2&theme=radical&cache_seconds=60" alt="HuongBien2">
     </a>
   </div>
   <div align="center">
     <h3>💸 Python Calculating Bills CLI App</h3>
     <p>Python CLI app for calculating electricity and water bills.</p>
     <a href="https://github.com/NguyenNguyen0/bill-calculator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=bill-calculator&theme=radical&cache_seconds=60" alt="Bill Calculator">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=bill-calculator&theme=radical&cache_seconds=60" alt="Bill Calculator">
     </a>
   </div>
 </details>
