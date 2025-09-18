@@ -11,6 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nguyen+Nguyen!;Building+Scalable+Web+Apps;Python+%E2%99%A1+JavaScript+%E2%99%A1+ReactJS" alt="Typing SVG">
   </a>
 </p>
+<hr>
 
 <!-- About Me Section -->
 <div align="center">
@@ -29,6 +30,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </div>
+<hr>
 <table>
   <tr>
     <td>
@@ -42,6 +44,7 @@
     </td>
   </tr>
 </table>
+<hr>
 
 <!-- Tech Stack Section -->
 <div align="center">
@@ -49,7 +52,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=%E2%9E%B6+Tech+Stack+%E2%9E%B6;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG">
   </a>
 </div>
-<table>
+<hr>
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <h3>📖 Programming Languages</h3>
@@ -90,6 +94,7 @@
     </td>
   </tr>
 </table>
+<hr>
 
 <!-- Featured Projects Section -->
 <details open>
