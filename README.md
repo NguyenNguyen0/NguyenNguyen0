@@ -11,49 +11,57 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nguyen+Nguyen!;Building+Scalable+Web+Apps;Python+%E2%99%A1+JavaScript+%E2%99%A1+ReactJS" alt="Typing SVG">
   </a>
 </p>
+
 <hr>
 
 <!-- About Me Section -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=%E2%98%85+About+Me+%E2%98%85;Fullstack+Developer" alt="Typing SVG">
-  </a>
-</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/nguyentrung918">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/NguyenNguyen0">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/nguyentrung918">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-</div>
-<hr>
 <table>
   <tr>
-    <td>
-      <h3>💖 Passionate software developer specialized in <strong>🐍 Python</strong> and <strong>🌐 JavaScript</strong>.</h3>
-      <h3>🌟 Experienced in building modern web applications with <strong>ReactJS, and FastAPI</strong>.</h3>
-      <h3>🧑‍💻 Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</h3>
-    </td>
-    <td align="center">
-      <img src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" width="100%">
-      <img src="imgs/typing.gif" alt="Typing" width="100%">
+    <td colspan="2">
+      <p align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&lines=%E2%98%85+About+Me+%E2%98%85" alt="Typing SVG" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/nguyentrung918">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+        </a>
+        <a href="https://github.com/NguyenNguyen0">
+          <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+        </a>
+        <a href="https://leetcode.com/nguyentrung918">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+        </a>
+      </p>
     </td>
   </tr>
-</table>
-<hr>
-
-<!-- Tech Stack Section -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=%E2%9E%B6+Tech+Stack+%E2%9E%B6;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG">
-  </a>
-</div>
-<hr>
-<table align="center">
+  <tr>
+    <td>
+      <div>
+        <h3>💖 Passionate software developer specialized in <strong>🐍 Python</strong> and <strong>🌐 JavaScript</strong>.</h3>
+        <h3>🌟 Experienced in building modern web applications with <strong>ReactJS, and FastAPI</strong>.</h3>
+        <h3>🧑‍💻 Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</h3>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" width="100%">
+        <img src="imgs/typing.gif" alt="Typing" width="100%">
+      </div>
+    </td>
+  </tr>
+  <!-- Tech Stack Section -->
+  <tr>
+    <td colspan="2">
+      <br>
+      <p align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=%E2%9E%B6+Tech+Stack+%E2%9E%B6;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG">
+        </a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="50%">
       <h3>📖 Programming Languages</h3>
