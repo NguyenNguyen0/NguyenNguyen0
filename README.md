@@ -1,7 +1,9 @@
 <!-- Trophy Graph -->
-<!-- <div align="center">
+<!--
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=radical&row=1&column=6&margin-w=15&margin-h=20" height="100" alt="trophy graph" />
-</div> -->
+</div>
+-->
 
 <br>
 
@@ -20,14 +22,9 @@
     <td colspan="2">
       <p align="center">
         <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&lines=%E2%98%85+About+Me+%E2%98%85" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&lines=%E2%98%85+About+Me+%E2%98%85" alt="Typing SVG" />
         </a>
       </p>
-      <!-- <p align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=200&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+Developer;+with+a+Flair+for+Frontend" alt="Typing SVG" />
-        </a>
-      </p> -->
       <p align="center">
         <a href="https://www.linkedin.com/in/nguyentrung918">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -56,12 +53,10 @@
       </div>
     </td>
   </tr>
-</table>
-
-<!-- Tech Stack Section -->
-<table align="center">
+  <!-- Tech Stack Section -->
   <tr>
     <td colspan="2">
+      <br>
       <p align="center">
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=%E2%9E%B6+Tech+Stack+%E2%9E%B6;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG">
@@ -70,7 +65,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" with="50%">
+    <td align="center" width="50%">
       <h3>📖 Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python">
       <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript">
@@ -78,7 +73,7 @@
       <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java">
       <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go">
     </td>
-    <td align="center" with="50%">
+    <td align="center" width="50%">
       <h3>🔧 Tools</h3>
       <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git">
       <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker">
@@ -88,7 +83,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" with="50%">
+    <td align="center" width="50%">
       <h3>🖥️ Frontend</h3>
       <img src="https://skillicons.dev/icons?i=react" height="50" alt="React">
       <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js">
@@ -97,7 +92,7 @@
       <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5">
       <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3">
     </td>
-    <td align="center" with="50%">
+    <td align="center" width="50%">
       <h3>🌐 Backend</h3>
       <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI">
       <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask">
