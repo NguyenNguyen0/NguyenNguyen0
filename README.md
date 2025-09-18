@@ -1,10 +1,14 @@
 <!-- Trophy Graph -->
-<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=radical&row=1&column=6&margin-w=15&margin-h=20" height="130" alt="trophy graph" /> -->
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=radical&row=1&column=6&margin-w=15&margin-h=20" height="100" alt="trophy graph" />
+</div> -->
+
+<br>
 
 <!-- Introduction -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nguyen+Nguyen!;Backend+Developer+with+a+Flair+for+Frontend;Python+%E2%99%A1+JavaScript+%E2%99%A1+ReactJS;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nguyen+Nguyen!;Building+Scalable+Web+Apps;Python+%E2%99%A1+JavaScript+%E2%99%A1+ReactJS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,10 +17,12 @@
 <!-- About Me Section -->
 <table>
   <tr>
-    <td>
-      <h2 align="center">🤩 <strong>About Me</strong></h2>
+    <td colspan="2">
       <p align="center">
-        <a href="https://www.linkedin.com/in/nguyên-nguyễn-626171313">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=%E2%98%85%E5%BD%A1About+Me%E5%BD%A1%E2%98%85;Backend+Developer+with+a+Flair+for+Frontend" alt="Typing SVG" /></a>
+      <p>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/nguyentrung918">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
         </a>
         <a href="https://github.com/NguyenNguyen0">
@@ -26,6 +32,10 @@
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
         </a>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <div>
         <h3>💖 Passionate software developer specialized in <strong>🐍 Python</strong> and <strong>🌐 JavaScript</strong>.</h3>
         <h3>🌟 Experienced in building modern web applications with <strong>ReactJS, and FastAPI</strong>.</h3>
@@ -44,7 +54,7 @@
 <!-- Tech Stack Section -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=Tech+Stack;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=Tech+Stack;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG" />
   </a>
 </h2>
 
