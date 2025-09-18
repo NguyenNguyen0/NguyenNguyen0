@@ -19,7 +19,7 @@ Building Scalable Web Apps
 <!-- About Me -->
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <h2 align="center">🤩 <strong>About Me</strong></h2>
       <p align="center">
         <a href="https://www.linkedin.com/in/nguyên-nguyễn-626171313">
@@ -38,12 +38,13 @@ Building Scalable Web Apps
         <h3>🧑‍💻Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</h3>
       </div>
     </td>
-    <td width="50%">
+    <td>
       <div align="center">
       <img src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" width="100%" />
       <img src="imgs/typing.gif" alt="Typing" width="100%" />
       </div>
     </td>
+   </tr>
 </table>
 
 <!-- Tech Stack -->
@@ -75,7 +76,7 @@ Building Scalable Web Apps
   <!-- Frontend & Backend -->
   <tr>
     <td align="center" width="50%">
-      <h3>🌐 Frontend</h3>
+      <h3>🖥️ Frontend</h3>
       <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
       <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
       <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo" />
@@ -84,7 +85,7 @@ Building Scalable Web Apps
       <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
     </td>
     <td align="center" width="50%">
-      <h3>🧠 Backend</h3>
+      <h3>🌐 Backend</h3>
       <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" />
       <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo" />
       <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
