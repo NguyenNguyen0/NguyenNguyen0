@@ -5,8 +5,6 @@
 </div>
 -->
 
-<br>
-
 <!-- Introduction -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,18 +12,16 @@
   </a>
 </p>
 
-<hr>
-
 <!-- About Me Section -->
 <table>
   <tr>
     <td colspan="2">
-      <p align="center">
+      <div align="center">
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=%E2%98%85+About+Me+%E2%98%85;Fullstack+Developer" alt="Typing SVG">
         </a>
-      </p>
-      <p align="center">
+      </div>
+      <div align="center">
         <a href="https://www.linkedin.com/in/nguyentrung918">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
         </a>
@@ -35,33 +31,26 @@
         <a href="https://leetcode.com/nguyentrung918">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
         </a>
-      </p>
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <h3>💖 Passionate software developer specialized in <strong>🐍 Python</strong> and <strong>🌐 JavaScript</strong>.</h3>
-        <h3>🌟 Experienced in building modern web applications with <strong>ReactJS, and FastAPI</strong>.</h3>
-        <h3>🧑‍💻 Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</h3>
-      </div>
+      <h3>💖 Passionate software developer specialized in <strong>🐍 Python</strong> and <strong>🌐 JavaScript</strong>.</h3>
+      <h3>🌟 Experienced in building modern web applications with <strong>ReactJS, and FastAPI</strong>.</h3>
+      <h3>🧑‍💻 Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</h3>
     </td>
-    <td>
-      <div align="center">
-        <img src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" width="100%">
-        <img src="imgs/typing.gif" alt="Typing" width="100%">
-      </div>
+    <td align="center">
+      <img src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" width="100%">
+      <img src="imgs/typing.gif" alt="Typing" width="100%">
     </td>
   </tr>
   <!-- Tech Stack Section -->
   <tr>
-    <td colspan="2">
-      <br>
-      <p align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=%E2%9E%B6+Tech+Stack+%E2%9E%B6;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG">
-        </a>
-      </p>
+    <td colspan="2" align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=%E2%9E%B6+Tech+Stack+%E2%9E%B6;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG">
+      </a>
     </td>
   </tr>
   <tr>
@@ -104,56 +93,48 @@
     </td>
   </tr>
 </table>
-<hr>
+
 <!-- Featured Projects Section -->
 <details open>
   <summary>
     <h2>📌 <strong>Featured Projects</strong></h2>
   </summary>
   <div align="center">
-    <div>
-      <h3>🤖 Fullstack Chatbot AI</h3>
-      <p>Chatbot AI website like ChatGPT, Gemini.</p>
-      <a href="https://github.com/NguyenNguyen0/chatbot-fe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical&cache_seconds=60" alt="Chatbot Frontend">
-      </a>
-      <a href="https://github.com/NguyenNguyen0/chatbot-be">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical&cache_seconds=60" alt="Chatbot Backend">
-      </a>
-    </div>
+    <h3>🤖 Fullstack Chatbot AI</h3>
+    <p>Chatbot web app with Ollama</p>
+    <a href="https://github.com/NguyenNguyen0/chatbot-fe">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical&cache_seconds=60" alt="Chatbot Frontend">
+    </a>
+    <a href="https://github.com/NguyenNguyen0/chatbot-be">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical&cache_seconds=60" alt="Chatbot Backend">
+    </a>
   </div>
   <div align="center">
-    <div>
-      <h3>🖼️ Fullstack Album Web App</h3>
-      <p>Modern UI Album web app built by TailwindCSS and Next.js.</p>
-      <a href="https://github.com/NguyenNguyen0/album-fe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-fe&theme=radical&cache_seconds=60" alt="Album Frontend">
-      </a>
-      <a href="https://github.com/NguyenNguyen0/album-be">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-be&theme=radical&cache_seconds=60" alt="Album Backend">
-      </a>
-    </div>
+    <h3>🖼️ Fullstack Album Web App</h3>
+    <p>Modern UI Album web app built by TailwindCSS and Next.js.</p>
+    <a href="https://github.com/NguyenNguyen0/album-fe">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-fe&theme=radical&cache_seconds=60" alt="Album Frontend">
+    </a>
+    <a href="https://github.com/NguyenNguyen0/album-be">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-be&theme=radical&cache_seconds=60" alt="Album Backend">
+    </a>
   </div>
   <div align="center">
-    <div>
-      <h3>🍻 Table Reservation Management Desktop App</h3>
-      <p>Table reservation management desktop app built with JavaFX.</p>
-      <a href="https://github.com/NguyenNguyen0/HuongBien">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien&theme=radical&cache_seconds=60" alt="HuongBien">
-      </a>
-      <a href="https://github.com/NguyenNguyen0/HuongBien2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien2&theme=radical&cache_seconds=60" alt="HuongBien2">
-      </a>
-    </div>
+    <h3>🍻 Table Reservation Management Desktop App</h3>
+    <p>Table reservation management desktop app built with JavaFX.</p>
+    <a href="https://github.com/NguyenNguyen0/HuongBien">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien&theme=radical&cache_seconds=60" alt="HuongBien">
+    </a>
+    <a href="https://github.com/NguyenNguyen0/HuongBien2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien2&theme=radical&cache_seconds=60" alt="HuongBien2">
+    </a>
   </div>
   <div align="center">
-    <div>
-      <h3>💸 Python Calculating Bills CLI App</h3>
-      <p>Python CLI app for calculating electricity and water bills.</p>
-      <a href="https://github.com/NguyenNguyen0/bill-calculator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=bill-calculator&theme=radical&cache_seconds=60" alt="Bill Calculator">
-      </a>
-    </div>
+    <h3>💸 Python Calculating Bills CLI App</h3>
+    <p>Python CLI app for calculating electricity and water bills.</p>
+    <a href="https://github.com/NguyenNguyen0/bill-calculator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=bill-calculator&theme=radical&cache_seconds=60" alt="Bill Calculator">
+    </a>
   </div>
 </details>
 
@@ -171,8 +152,6 @@
 
 <!-- Outro -->
 <p align="center"><strong>⭐️ Feel free to check out my repositories and connect with me!</strong></p>
-
-<!-- Contribution Snake Animation -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
