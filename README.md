@@ -140,6 +140,13 @@
     </a>
   </div>
   <div align="center">
+    <h3>🧑 Next.js Developer Portfolio</h3>
+    <p>Personal developer portfolio website with TailwindCSS and Next.js.</p>
+    <a href="https://github.com/NguyenNguyen0/my-portfolio">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=my-portfolio&theme=radical&cache_seconds=60" alt="Developer Portfolio">
+    </a>
+  </div>
+  <div align="center">
     <h3>💸 Python Calculating Bills CLI App</h3>
     <p>Python CLI app for calculating electricity and water bills.</p>
     <a href="https://github.com/NguyenNguyen0/bill-calculator">
