@@ -113,10 +113,10 @@
     <h3>🤖 Fullstack Chatbot AI</h3>
     <p>Chatbot web app with Ollama</p>
     <a href="https://github.com/NguyenNguyen0/chatbot-fe">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical&cache_seconds=60" alt="Chatbot Frontend">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical" alt="Chatbot Frontend">
     </a>
     <a href="https://github.com/NguyenNguyen0/chatbot-be">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical&cache_seconds=60" alt="Chatbot Backend">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical" alt="Chatbot Backend">
     </a>
   </div>
   <div align="center">
@@ -150,7 +150,7 @@
     <h3>💸 Python Calculating Bills CLI App</h3>
     <p>Python CLI app for calculating electricity and water bills.</p>
     <a href="https://github.com/NguyenNguyen0/bill-calculator">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=bill-calculator&theme=radical&cache_seconds=60" alt="Bill Calculator">
+      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=bill-calculator&theme=radical" alt="Bill Calculator">
     </a>
   </div>
 </details>
