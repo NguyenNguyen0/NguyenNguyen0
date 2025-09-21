@@ -38,11 +38,11 @@
   </tr>
   <tr>
     <td>
-      <div>
-        <h3>💖 Passionate software developer specialized in <strong>🐍 Python</strong> and <strong>🌐 JavaScript</strong>.</h3>
-        <h3>🌟 Experienced in building modern web applications with <strong>ReactJS, and FastAPI</strong>.</h3>
-        <h3>🧑‍💻 Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</h3>
-      </div>
+      <ul>
+        <li>💖 Passionate software developer specialized in <strong>🐍 Python</strong> and <strong>🌐 JavaScript</strong>.</h3>
+        <li>🌟 Experienced in building modern web applications with <strong>ReactJS, and FastAPI</strong>.</h3>
+        <li>🧑‍💻 Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</h3>
+      </ul>
     </td>
     <td>
       <div align="center">
