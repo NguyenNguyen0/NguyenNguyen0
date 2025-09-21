@@ -156,7 +156,7 @@
 </details>
 
 <!-- GitHub Stats Section -->
-<details>
+<details open>
   <summary>
     <h2>📊 <strong>GitHub Stats</strong></h2>
   </summary>
