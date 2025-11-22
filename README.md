@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nguyen%20Nguyen&fontSize=42&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img src="./imgs/waving-header.svg" alt="Animated Header" width="100%">
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
