@@ -1,183 +1,215 @@
-<!-- Trophy Graph -->
-<!--
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=radical&row=1&column=6&margin-w=15&margin-h=20" height="100" alt="trophy graph">
-</div>
--->
 
-<!-- Introduction -->
+<!-- Animated Header with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nguyen%20Nguyen&fontSize=42&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Building+Scalable+Web+Applications;Python+%E2%9D%A4%EF%B8%8F+JavaScript+%E2%9D%A4%EF%B8%8F+ReactJS;Let's+Create+Something+Amazing!" alt="Typing SVG">
+</a>
+
+<!-- Social Badges with Hover Effect -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nguyen+Nguyen!;Building+Scalable+Web+Apps;Python+%E2%99%A1+JavaScript+%E2%99%A1+ReactJS" alt="Typing SVG">
+  <a href="https://www.linkedin.com/in/nguyentrung918">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/NguyenNguyen0">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/nguyentrung918">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=NguyenNguyen0&style=for-the-badge&color=blueviolet" alt="Profile Views">
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> -->
+<img src="imgs/typing.gif" align="right" alt="Coding" width="400">
+
+```javascript
+const nguyen = {
+    location: "Ho Chi Minh City, Vietnam 🇻🇳",
+    role: "Fullstack Developer",
+    currentFocus: "Building scalable web applications",
+    languages: ["Python", "JavaScript", "TypeScript"],
+    frameworks: ["ReactJS", "Next.js", "FastAPI"],
+    interests: ["Web Development", "AI/ML", "Problem Solving"],
+    motto: "Code with passion, build with purpose 💡"
+};
+```
+
+<br clear="right"/>
+
+### 💫 What I Do
+
+- 🔭 Currently working on **AI-powered web applications**
+- 🌱 Learning **Go** and exploring **Cloud Architecture**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **React, Python, FastAPI, or System Design**
+- ⚡ Fun fact: I solve coding challenges for breakfast! 🍳
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,go&theme=dark" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,html,css&theme=dark" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,nestjs,spring,supabase,mongodb,mysql,postgres,redis,prisma&theme=dark" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bash,npm,linux,vite,vercel,aws&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🤖 AI Chatbot Platform
+<p>
+  <a href="https://github.com/NguyenNguyen0/chatbot-fe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NguyenNguyen0/chatbot-be">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-<hr>
+**Tech Stack:** React • FastAPI • Ollama • TailwindCSS
+<br>
+*Intelligent chatbot with natural language processing capabilities*
 
-<!-- About Me Section -->
-<table>
-  <tr>
-    <td colspan="2">
-      <p align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=%E2%98%85+About+Me+%E2%98%85;Fullstack+Developer" alt="Typing SVG" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://www.linkedin.com/in/nguyentrung918">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-        </a>
-        <a href="https://github.com/NguyenNguyen0">
-          <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-        </a>
-        <a href="https://leetcode.com/nguyentrung918">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>💖 Passionate software developer specialized in <strong>🐍 Python</strong> and <strong>🌐 JavaScript</strong>.</h3>
-        <li>🌟 Experienced in building modern web applications with <strong>ReactJS, and FastAPI</strong>.</h3>
-        <li>🧑‍💻 Active problem solver on <a href="https://leetcode.com/nguyentrung918">LeetCode</a>.</h3>
-      </ul>
-    </td>
-    <td>
-      <div align="center">
-        <img src="imgs/NguyenNguyen.gif" alt="Nguyen Nguyen" width="100%">
-        <img src="imgs/typing.gif" alt="Typing" width="100%">
-      </div>
-    </td>
-  </tr>
-  <!-- Tech Stack Section -->
-  <tr>
-    <td colspan="2">
-      <br>
-      <p align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=60&lines=%E2%9E%B6+Tech+Stack+%E2%9E%B6;Technologies%2C+I+love+%E2%99%A1" alt="Typing SVG">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📖 Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python">
-      <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript">
-      <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript">
-      <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java">
-      <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go">
-    </td>
-    <td align="center" width="50%">
-      <h3>🔧 Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git">
-      <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker">
-      <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman">
-      <img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash">
-      <img src="https://skillicons.dev/icons?i=npm" height="50" alt="NPM">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🖥️ Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react" height="50" alt="React">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js">
-      <img src="https://skillicons.dev/icons?i=redux" height="50" alt="Redux">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS">
-      <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5">
-      <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3">
-    </td>
-    <td align="center" width="50%">
-      <h3>🌐 Backend</h3>
-      <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI">
-      <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js">
-      <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB">
-      <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL">
-      <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL">
-    </td>
-  </tr>
-</table>
-<hr>
+---
 
-<!-- Featured Projects Section -->
-<details open>
-  <summary>
-    <h2>📌 <strong>Featured Projects</strong></h2>
-  </summary>
-  <div align="center">
-    <h3>🤖 Fullstack Chatbot AI</h3>
-    <p>Chatbot web app with Ollama</p>
-    <a href="https://github.com/NguyenNguyen0/chatbot-fe">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=radical" alt="Chatbot Frontend">
-    </a>
-    <a href="https://github.com/NguyenNguyen0/chatbot-be">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=radical" alt="Chatbot Backend">
-    </a>
-  </div>
-  <div align="center">
-    <h3>🖼️ Fullstack Album Web App</h3>
-    <p>Modern UI Album web app built by TailwindCSS and Next.js.</p>
-    <a href="https://github.com/NguyenNguyen0/album-fe">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-fe&theme=radical&cache_seconds=60" alt="Album Frontend">
-    </a>
-    <a href="https://self-github.com/NguyenNguyen0/album-be">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-be&theme=radical&cache_seconds=60" alt="Album Backend">
-    </a>
-  </div>
-  <div align="center">
-    <h3>🍻 Table Reservation Management Desktop App</h3>
-    <p>Table reservation management desktop app built with JavaFX.</p>
-    <a href="https://github.com/NguyenNguyen0/HuongBien">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien&theme=radical&cache_seconds=60" alt="HuongBien">
-    </a>
-    <a href="https://github.com/NguyenNguyen0/HuongBien2">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=HuongBien2&theme=radical&cache_seconds=60" alt="HuongBien2">
-    </a>
-  </div>
-  <div align="center">
-    <h3>🧑 Next.js Developer Portfolio</h3>
-    <p>Personal developer portfolio website with TailwindCSS and Next.js.</p>
-    <a href="https://github.com/NguyenNguyen0/my-portfolio">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=my-portfolio&theme=radical&cache_seconds=60" alt="Developer Portfolio">
-    </a>
-  </div>
-  <div align="center">
-    <h3>💸 Python Calculating Bills CLI App</h3>
-    <p>Python CLI app for calculating electricity and water bills.</p>
-    <a href="https://github.com/NguyenNguyen0/bill-calculator">
-      <img src="https://self-github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=bill-calculator&theme=radical" alt="Bill Calculator">
-    </a>
-  </div>
-</details>
+### 🖼️ Modern Album Manager
+<p>
+  <a href="https://github.com/NguyenNguyen0/album-fe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-fe&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NguyenNguyen0/album-be">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-be&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-<!-- GitHub Stats Section -->
-<details open>
-  <summary>
-    <h2>📊 <strong>GitHub Stats</strong></h2>
-  </summary>
-  <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenNguyen0&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://streak-stats.demolab.com?user=NguyenNguyen0&theme=radical" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&theme=radical" alt="Top Languages">
-  </div>
-</details>
+**Tech Stack:** Next.js • Node.js • MongoDB • TailwindCSS
+<br>
+*Beautiful and responsive photo album management system*
 
-<!-- Outro -->
-<p align="center"><strong>⭐️ Feel free to check out my repositories and connect with me!</strong></p>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img
-    width="100%"
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+### 🧑 Developer Portfolio
+<p>
+  <a href="https://github.com/NguyenNguyen0/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=my-portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+**Tech Stack:** Next.js • TailwindCSS • Framer Motion
+<br>
+*Personal portfolio showcasing projects and skills*
+
+---
+
+### 💸 Bill Calculator CLI
+<p>
+  <a href="https://github.com/NguyenNguyen0/bill-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=bill-calculator&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+**Tech Stack:** Python • CLI
+<br>
+*Efficient utility bill calculation tool*
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenNguyen0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenNguyen0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenNguyen0&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+
+</div>
+
+---
+
+## 💭 Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n5uje7hfsknauf3wkfglkktyly&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n5uje7hfsknauf3wkfglkktyly&redirect=true)
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+**I'm always open to interesting conversations and collaboration opportunities.**
+
+<p>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <!-- <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a> -->
+</p>
+
+### ⭐️ From [NguyenNguyen0](https://github.com/NguyenNguyen0) with 💙
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
