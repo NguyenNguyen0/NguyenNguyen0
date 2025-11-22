@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="854" height="300" style="z-index:1;position:relative" viewBox="0 0 854 300">
+    <style>
+    .text {
+      font-size: 70px;
+      font-weight: 700;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    }
+    .desc {
+      font-size: 24px;
+      font-weight: 500;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    }
+    .text, .desc {
+      animation: twinkling 4s ease-in-out infinite;
+    }
+    @keyframes twinkling {
+      40% { opacity: 1; }
+      50% { opacity: 0.5; }
+      60% { opacity: 1; }
+      70% { opacity: 0.5; }
+      80% { opacity: 1; }
+    }
+    </style>
+
+    <defs>
+        <!-- <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#1a1a1a1e"/>
+            <stop offset="50%" stop-color="#2d2d2d13"/>
+            <stop offset="100%" stop-color="#0a0a0a11"/>
+        </linearGradient> -->
+
+        <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.2"/>
+            <stop offset="100%" stop-color="#cccccc" stop-opacity="0.1"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Background -->
+    <rect width="854" height="300" fill="url(#bgGradient)"/>
+
+    <!-- Waving animation -->
+    <g transform="translate(427, 150) scale(1, 1) translate(-427, -150)">
+        <path d="" fill="url(#waveGradient)" opacity="0.4" transform="scale(-1, 1)" transform-origin="center">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z;M0 0L 0 245Q 213.5 260 427 240T 854 230L 854 0 Z;M0 0L 0 265Q 213.5 235 427 265T 854 230L 854 0 Z;M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z">
+            </animate>
+        </path>
+        <path d="" fill="url(#waveGradient)" opacity="0.4" transform="scale(-1, 1)" transform-origin="center">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z;M0 0L 0 250Q 213.5 220 427 220T 854 240L 854 0 Z;M0 0L 0 245Q 213.5 225 427 250T 854 265L 854 0 Z;M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z">
+            </animate>
+        </path>
+    </g>
+
+    <!-- Main text content -->
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="80" class="text" style="fill:#f7f5f5;" stroke="none" stroke-width="1">
+    &lt;Nguyen Nguyen/&gt;
+    </text>
+
+    <!-- Description text - horizontal layout -->
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="150" class="desc" style="fill:#f7f5f5;" stroke="none">
+    Fullstack Developer ☆ Problem Solver ☆ Tech Enthusiast
+    </text>
+
+    <!-- Floating and Moving Stars -->
+    <!-- Star 1 - Orbital motion around top-left -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" 
+                         values="80,50; 120,30; 100,70; 60,60; 80,50" 
+                         dur="8s" repeatCount="indefinite"/>
+        <circle cx="0" cy="0" r="4" fill="white" opacity="0.3">
+            <animate attributeName="opacity" values="0.3;1;0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="scale" values="1;1.5;1;1.5;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="1" fill="white" opacity="0.8">
+            <animate attributeName="opacity" values="0.8;0.2;0.8;0.2;0.8" dur="2s" repeatCount="indefinite"/>
+        </circle>
+    </g>
+
+    <!-- Star 2 - Horizontal drifting -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" 
+                         values="774,80; 700,75; 650,85; 720,90; 774,80" 
+                         dur="12s" repeatCount="indefinite"/>
+        <circle cx="0" cy="0" r="3" fill="white" opacity="0.4">
+            <animate attributeName="opacity" values="0.4;1;0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="scale" values="1;1.3;1;1.3;1" dur="2.5s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="0.8" fill="white" opacity="0.9">
+            <animate attributeName="opacity" values="0.9;0.3;0.9;0.3;0.9" dur="2.5s" repeatCount="indefinite"/>
+        </circle>
+    </g>
+
+    <!-- Star 3 - Vertical floating -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" 
+                         values="720,250; 720,230; 720,270; 720,240; 720,250" 
+                         dur="6s" repeatCount="indefinite"/>
+        <circle cx="0" cy="0" r="3.5" fill="white" opacity="0.3">
+            <animate attributeName="opacity" values="0.3;1;0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="scale" values="1;1.4;1;1.4;1" dur="3s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="1.2" fill="white" opacity="0.7">
+            <animate attributeName="opacity" values="0.7;0.2;0.7;0.2;0.7" dur="3s" repeatCount="indefinite"/>
+        </circle>
+    </g>
+
+    <!-- Star 4 - New small star, diagonal movement -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" 
+                         values="150,200; 200,180; 180,220; 130,210; 150,200" 
+                         dur="10s" repeatCount="indefinite"/>
+        <circle cx="0" cy="0" r="2.5" fill="white" opacity="0.2">
+            <animate attributeName="opacity" values="0.2;0.8;0.2;0.8;0.2" dur="1.8s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="scale" values="1;1.2;1;1.2;1" dur="1.8s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="0.6" fill="white" opacity="0.6">
+            <animate attributeName="opacity" values="0.6;0.1;0.6;0.1;0.6" dur="1.8s" repeatCount="indefinite"/>
+        </circle>
+    </g>
+
+    <!-- Star 5 - Medium star, slow circular motion -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" 
+                         values="600,40; 620,60; 580,80; 560,60; 580,40; 600,40" 
+                         dur="15s" repeatCount="indefinite"/>
+        <circle cx="0" cy="0" r="3.2" fill="white" opacity="0.25">
+            <animate attributeName="opacity" values="0.25;0.9;0.25;0.9;0.25" dur="2.2s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="scale" values="1;1.3;1;1.3;1" dur="2.2s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="0.9" fill="white" opacity="0.8">
+            <animate attributeName="opacity" values="0.8;0.2;0.8;0.2;0.8" dur="2.2s" repeatCount="indefinite"/>
+        </circle>
+    </g>
+
+    <!-- Star 6 - Tiny star, fast erratic movement -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" 
+                         values="300,160; 320,140; 340,170; 310,180; 290,150; 300,160" 
+                         dur="7s" repeatCount="indefinite"/>
+        <circle cx="0" cy="0" r="1.8" fill="white" opacity="0.3">
+            <animate attributeName="opacity" values="0.3;0.7;0.3;0.7;0.3" dur="1.5s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="scale" values="1;1.1;1;1.1;1" dur="1.5s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="0.4" fill="white" opacity="0.5">
+            <animate attributeName="opacity" values="0.5;0.1;0.5;0.1;0.5" dur="1.5s" repeatCount="indefinite"/>
+        </circle>
+    </g>
+
+    <!-- Star 7 - Corner star, figure-8 movement -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" 
+                         values="50,280; 90,270; 110,280; 90,290; 50,280" 
+                         dur="9s" repeatCount="indefinite"/>
+        <circle cx="0" cy="0" r="2.8" fill="white" opacity="0.28">
+            <animate attributeName="opacity" values="0.28;0.85;0.28;0.85;0.28" dur="2.8s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="scale" values="1;1.25;1;1.25;1" dur="2.8s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="0.7" fill="white" opacity="0.7">
+            <animate attributeName="opacity" values="0.7;0.15;0.7;0.15;0.7" dur="2.8s" repeatCount="indefinite"/>
+        </circle>
+    </g>
+
+    <!-- Star 8 - Right side wanderer -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" 
+                         values="800,200; 780,180; 820,160; 800,200" 
+                         dur="11s" repeatCount="indefinite"/>
+        <circle cx="0" cy="0" r="2.2" fill="white" opacity="0.22">
+            <animate attributeName="opacity" values="0.22;0.75;0.22;0.75;0.22" dur="1.9s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="scale" values="1;1.15;1;1.15;1" dur="1.9s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="0.5" fill="white" opacity="0.6">
+            <animate attributeName="opacity" values="0.6;0.12;0.6;0.12;0.6" dur="1.9s" repeatCount="indefinite"/>
+        </circle>
+    </g>
+</svg>
