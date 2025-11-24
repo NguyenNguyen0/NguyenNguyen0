@@ -24,15 +24,31 @@
     </style>
 
     <defs>
-        <!-- <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#1a1a1a1e"/>
-            <stop offset="50%" stop-color="#2d2d2d13"/>
-            <stop offset="100%" stop-color="#0a0a0a11"/>
-        </linearGradient> -->
+        <!-- Silver Gradient for Text -->
+        <linearGradient id="silverGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#ffffffff"/>
+            <stop offset="25%" stop-color="#e8e8e8"/>
+            <stop offset="50%" stop-color="#c0c0c0"/>
+            <stop offset="75%" stop-color="#e9e9e9ff"/>
+            <stop offset="100%" stop-color="#f0f0f0ff"/>
+        </linearGradient>
+
+        <!-- Animated Silver Gradient -->
+        <linearGradient id="animatedSilver" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#f5f5f5">
+                <animate attributeName="stop-color" values="#f5f5f5;#c0c0c0;#f5f5f5" dur="3s" repeatCount="indefinite"/>
+            </stop>
+            <stop offset="50%" stop-color="#c0c0c0">
+                <animate attributeName="stop-color" values="#c0c0c0;#a8a8a8;#c0c0c0" dur="3s" repeatCount="indefinite"/>
+            </stop>
+            <stop offset="100%" stop-color="#a8a8a8">
+                <animate attributeName="stop-color" values="#a8a8a8;#d4d4d4;#a8a8a8" dur="3s" repeatCount="indefinite"/>
+            </stop>
+        </linearGradient>
 
         <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.2"/>
-            <stop offset="100%" stop-color="#cccccc" stop-opacity="0.1"/>
+            <stop offset="0%" stop-color="#c2c2c2ff" stop-opacity="0.4"/>
+            <stop offset="100%" stop-color="#2e2e2eff" stop-opacity="0.2"/>
         </linearGradient>
     </defs>
 
@@ -51,22 +67,76 @@
         </path>
     </g>
 
-    <!-- Main text content -->
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="80" class="text" style="fill:#f7f5f5;" stroke="none" stroke-width="1">
-    &lt;Nguyen Nguyen/&gt;
-    </text>
+    <!-- Floating Geometric Shapes -->
 
-    <!-- Description text - horizontal layout -->
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="150" class="desc" style="fill:#f7f5f5;" stroke="none">
-    Fullstack Developer ☆ Problem Solver ☆ Tech Enthusiast
-    </text>
+    <!-- Square 1 - Top Left -->
+    <g opacity="0.3">
+        <animateTransform attributeName="transform" type="translate" values="100,60; 140,80; 120,40; 100,60" dur="14s" repeatCount="indefinite"/>
+        <rect x="-8" y="-8" width="16" height="16" fill="none" stroke="url(#silverGradient)" stroke-width="1.5">
+            <animateTransform attributeName="transform" type="rotate" values="0 0 0; 360 0 0" dur="8s" repeatCount="indefinite"/>
+        </rect>
+    </g>
+
+    <!-- Triangle 1 - Top Right -->
+    <g opacity="0.25">
+        <animateTransform attributeName="transform" type="translate" values="750,70; 720,90; 770,100; 750,70" dur="16s" repeatCount="indefinite"/>
+        <polygon points="0,-12 10,8 -10,8" fill="none" stroke="#c0c0c0" stroke-width="1.5">
+            <animateTransform attributeName="transform" type="rotate" values="0 0 0; -360 0 0" dur="10s" repeatCount="indefinite"/>
+        </polygon>
+    </g>
+
+    <!-- Rhombus 1 - Left Side -->
+    <g opacity="0.28">
+        <animateTransform attributeName="transform" type="translate" values="80,180; 120,200; 100,160; 80,180" dur="18s" repeatCount="indefinite"/>
+        <polygon points="0,-10 8,0 0,10 -8,0" fill="none" stroke="url(#animatedSilver)" stroke-width="1.5">
+            <animateTransform attributeName="transform" type="rotate" values="0 0 0; 360 0 0" dur="12s" repeatCount="indefinite"/>
+        </polygon>
+    </g>
+
+    <!-- Pentagon - Bottom Right -->
+    <g opacity="0.3">
+        <animateTransform attributeName="transform" type="translate" values="780,240; 750,260; 800,250; 780,240" dur="15s" repeatCount="indefinite"/>
+        <polygon points="0,-10 9.5,-3 5.9,8.1 -5.9,8.1 -9.5,-3" fill="none" stroke="#a8a8a8" stroke-width="1.5">
+            <animateTransform attributeName="transform" type="rotate" values="0 0 0; 360 0 0" dur="9s" repeatCount="indefinite"/>
+        </polygon>
+    </g>
+
+    <!-- Square 2 - Bottom Left -->
+    <g opacity="0.25">
+        <animateTransform attributeName="transform" type="translate" values="150,250; 180,270; 160,230; 150,250" dur="13s" repeatCount="indefinite"/>
+        <rect x="-10" y="-10" width="20" height="20" fill="none" stroke="#d4d4d4" stroke-width="1.5">
+            <animateTransform attributeName="transform" type="rotate" values="0 0 0; -360 0 0" dur="11s" repeatCount="indefinite"/>
+        </rect>
+    </g>
+
+    <!-- Hexagon - Right Side -->
+    <g opacity="0.27">
+        <animateTransform attributeName="transform" type="translate" values="800,150; 770,170; 820,160; 800,150" dur="17s" repeatCount="indefinite"/>
+        <polygon points="0,-11 9.5,-5.5 9.5,5.5 0,11 -9.5,5.5 -9.5,-5.5" fill="none" stroke="url(#silverGradient)" stroke-width="1.5">
+            <animateTransform attributeName="transform" type="rotate" values="0 0 0; 360 0 0" dur="14s" repeatCount="indefinite"/>
+        </polygon>
+    </g>
+
+    <!-- Triangle 2 - Center Left -->
+    <g opacity="0.22">
+        <animateTransform attributeName="transform" type="translate" values="200,140; 230,160; 210,120; 200,140" dur="19s" repeatCount="indefinite"/>
+        <polygon points="0,-10 8.7,5 -8.7,5" fill="none" stroke="#c0c0c0" stroke-width="1.5">
+            <animateTransform attributeName="transform" type="rotate" values="0 0 0; 360 0 0" dur="7s" repeatCount="indefinite"/>
+        </polygon>
+    </g>
+
+    <!-- Rhombus 2 - Center Right -->
+    <g opacity="0.26">
+        <animateTransform attributeName="transform" type="translate" values="650,180; 680,200; 660,160; 650,180" dur="16s" repeatCount="indefinite"/>
+        <polygon points="0,-12 10,0 0,12 -10,0" fill="none" stroke="url(#animatedSilver)" stroke-width="1.5">
+            <animateTransform attributeName="transform" type="rotate" values="0 0 0; -360 0 0" dur="13s" repeatCount="indefinite"/>
+        </polygon>
+    </g>
 
     <!-- Floating and Moving Stars -->
     <!-- Star 1 - Orbital motion around top-left -->
     <g>
-        <animateTransform attributeName="transform" type="translate" 
-                         values="80,50; 120,30; 100,70; 60,60; 80,50" 
-                         dur="8s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="80,50; 120,30; 100,70; 60,60; 80,50" dur="8s" repeatCount="indefinite"/>
         <circle cx="0" cy="0" r="4" fill="white" opacity="0.3">
             <animate attributeName="opacity" values="0.3;1;0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
             <animateTransform attributeName="transform" type="scale" values="1;1.5;1;1.5;1" dur="2s" repeatCount="indefinite"/>
@@ -78,9 +148,7 @@
 
     <!-- Star 2 - Horizontal drifting -->
     <g>
-        <animateTransform attributeName="transform" type="translate" 
-                         values="774,80; 700,75; 650,85; 720,90; 774,80" 
-                         dur="12s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="774,80; 700,75; 650,85; 720,90; 774,80" dur="12s" repeatCount="indefinite"/>
         <circle cx="0" cy="0" r="3" fill="white" opacity="0.4">
             <animate attributeName="opacity" values="0.4;1;0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
             <animateTransform attributeName="transform" type="scale" values="1;1.3;1;1.3;1" dur="2.5s" repeatCount="indefinite"/>
@@ -92,9 +160,7 @@
 
     <!-- Star 3 - Vertical floating -->
     <g>
-        <animateTransform attributeName="transform" type="translate" 
-                         values="720,250; 720,230; 720,270; 720,240; 720,250" 
-                         dur="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="720,250; 720,230; 720,270; 720,240; 720,250" dur="6s" repeatCount="indefinite"/>
         <circle cx="0" cy="0" r="3.5" fill="white" opacity="0.3">
             <animate attributeName="opacity" values="0.3;1;0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
             <animateTransform attributeName="transform" type="scale" values="1;1.4;1;1.4;1" dur="3s" repeatCount="indefinite"/>
@@ -106,9 +172,7 @@
 
     <!-- Star 4 - New small star, diagonal movement -->
     <g>
-        <animateTransform attributeName="transform" type="translate" 
-                         values="150,200; 200,180; 180,220; 130,210; 150,200" 
-                         dur="10s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="150,200; 200,180; 180,220; 130,210; 150,200" dur="10s" repeatCount="indefinite"/>
         <circle cx="0" cy="0" r="2.5" fill="white" opacity="0.2">
             <animate attributeName="opacity" values="0.2;0.8;0.2;0.8;0.2" dur="1.8s" repeatCount="indefinite"/>
             <animateTransform attributeName="transform" type="scale" values="1;1.2;1;1.2;1" dur="1.8s" repeatCount="indefinite"/>
@@ -120,9 +184,7 @@
 
     <!-- Star 5 - Medium star, slow circular motion -->
     <g>
-        <animateTransform attributeName="transform" type="translate" 
-                         values="600,40; 620,60; 580,80; 560,60; 580,40; 600,40" 
-                         dur="15s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="600,40; 620,60; 580,80; 560,60; 580,40; 600,40" dur="15s" repeatCount="indefinite"/>
         <circle cx="0" cy="0" r="3.2" fill="white" opacity="0.25">
             <animate attributeName="opacity" values="0.25;0.9;0.25;0.9;0.25" dur="2.2s" repeatCount="indefinite"/>
             <animateTransform attributeName="transform" type="scale" values="1;1.3;1;1.3;1" dur="2.2s" repeatCount="indefinite"/>
@@ -134,9 +196,7 @@
 
     <!-- Star 6 - Tiny star, fast erratic movement -->
     <g>
-        <animateTransform attributeName="transform" type="translate" 
-                         values="300,160; 320,140; 340,170; 310,180; 290,150; 300,160" 
-                         dur="7s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="300,160; 320,140; 340,170; 310,180; 290,150; 300,160" dur="7s" repeatCount="indefinite"/>
         <circle cx="0" cy="0" r="1.8" fill="white" opacity="0.3">
             <animate attributeName="opacity" values="0.3;0.7;0.3;0.7;0.3" dur="1.5s" repeatCount="indefinite"/>
             <animateTransform attributeName="transform" type="scale" values="1;1.1;1;1.1;1" dur="1.5s" repeatCount="indefinite"/>
@@ -148,9 +208,7 @@
 
     <!-- Star 7 - Corner star, figure-8 movement -->
     <g>
-        <animateTransform attributeName="transform" type="translate" 
-                         values="50,280; 90,270; 110,280; 90,290; 50,280" 
-                         dur="9s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="50,280; 90,270; 110,280; 90,290; 50,280" dur="9s" repeatCount="indefinite"/>
         <circle cx="0" cy="0" r="2.8" fill="white" opacity="0.28">
             <animate attributeName="opacity" values="0.28;0.85;0.28;0.85;0.28" dur="2.8s" repeatCount="indefinite"/>
             <animateTransform attributeName="transform" type="scale" values="1;1.25;1;1.25;1" dur="2.8s" repeatCount="indefinite"/>
@@ -162,9 +220,7 @@
 
     <!-- Star 8 - Right side wanderer -->
     <g>
-        <animateTransform attributeName="transform" type="translate" 
-                         values="800,200; 780,180; 820,160; 800,200" 
-                         dur="11s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="800,200; 780,180; 820,160; 800,200" dur="11s" repeatCount="indefinite"/>
         <circle cx="0" cy="0" r="2.2" fill="white" opacity="0.22">
             <animate attributeName="opacity" values="0.22;0.75;0.22;0.75;0.22" dur="1.9s" repeatCount="indefinite"/>
             <animateTransform attributeName="transform" type="scale" values="1;1.15;1;1.15;1" dur="1.9s" repeatCount="indefinite"/>
@@ -173,4 +229,14 @@
             <animate attributeName="opacity" values="0.6;0.12;0.6;0.12;0.6" dur="1.9s" repeatCount="indefinite"/>
         </circle>
     </g>
+
+    <!-- Main text content with Silver Gradient -->
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="80" class="text" fill="url(#animatedSilver)" stroke="none">
+    &lt;NguyenNguyen0/&gt;
+    </text>
+
+    <!-- Description text - horizontal layout with Silver Gradient -->
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="150" class="desc" fill="url(#silverGradient)" stroke="none">
+    Fullstack Developer ☆ Problem Solver ☆ Tech Enthusiast
+    </text>
 </svg>
