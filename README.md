@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-<table width="100%">
+<table width="150%">
 <tr>
 <td valign="top" width="50%">
 
@@ -43,8 +43,6 @@
 - 🧩 Frameworks: `Spring` `Next.js` `FastAPI`
 - ❤️ Motto: *Code with passion, build with purpose*
 
-<br/>
-
 </td>
 <td valign="top" width="50%">
 
@@ -56,13 +54,9 @@
 - 💬 Ask me about **React, Spring, FastAPI, or System Design**
 - ⚡ Fun fact: I solve coding challenges for breakfast!
 
-<br/>
-
 </td>
 </tr>
 </table>
-
----
 
 ## 🛠️ Tech Arsenal
 
