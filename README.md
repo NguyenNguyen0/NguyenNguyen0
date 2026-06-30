@@ -43,6 +43,8 @@
 - 🧩 Frameworks: `Spring` `Next.js` `FastAPI`
 - ❤️ Motto: *Code with passion, build with purpose*
 
+<br/>
+
 </td>
 <td valign="top" width="50%">
 
@@ -53,6 +55,8 @@
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Spring, FastAPI, or System Design**
 - ⚡ Fun fact: I solve coding challenges for breakfast!
+
+<br/>
 
 </td>
 </tr>
