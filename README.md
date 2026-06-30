@@ -30,33 +30,21 @@
 
 ## 🚀 About Me
 
-<table width="150%">
-<tr>
-<td valign="top" width="50%">
+<img src="imgs/typing.gif" align="right" alt="Coding" width="400">
 
-#### 📋 Profile
+```javascript
+const nguyen = {
+    location: "Ho Chi Minh City, Vietnam 🇻🇳",
+    role: "Fullstack Developer & AI Integration🗿",
+    currentFocus: "Building scalable web applications",
+    languages: ["Python", "TypeScript", "Python"],
+    frameworks: ["Spring", "Next.js", "FastAPI"],
+    interests: ["Web Development", "AI/ML", "Problem Solving"],
+    motto: "Code with passion, build with purpose 💡"
+};
+```
 
-- 📍 Based in **Ho Chi Minh City, Vietnam** 🇻🇳
-- 💼 Role: **Fullstack Developer**
-- 🎯 Focus: **Building scalable web applications**
-- 🧠 Languages: `Python` `Java` `TypeScript`
-- 🧩 Frameworks: `Spring` `Next.js` `FastAPI`
-- ❤️ Motto: *Code with passion, build with purpose*
-
-</td>
-<td valign="top" width="50%">
-
-#### 💫 What I Do
-
-- 🔭 Currently working on **AI-powered web applications**
-- 🌱 Learning **Go** and exploring **Cloud Architecture**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Spring, FastAPI, or System Design**
-- ⚡ Fun fact: I solve coding challenges for breakfast!
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ## 🛠️ Tech Arsenal
 
