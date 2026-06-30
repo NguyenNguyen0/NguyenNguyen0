@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="854" height="300" style="z-index:1;position:relative" viewBox="0 0 854 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" style="z-index:1;position:relative" viewBox="0 0 854 220">
     <style>
     <![CDATA[
     @font-face {
@@ -57,71 +57,71 @@
     </defs>
 
     <!-- Background -->
-    <rect width="854" height="300" fill="#0a0a0f"/>
-    <rect width="854" height="300" fill="url(#pixelGrid)"/>
+    <rect width="854" height="220" fill="#0a0a0f"/>
+    <rect width="854" height="220" fill="url(#pixelGrid)"/>
 
     <!-- Scanline sweep -->
     <g opacity="0.5">
         <rect x="0" y="-12" width="854" height="2" fill="#4dd9ec" opacity="0.12">
-            <animateTransform attributeName="transform" type="translate" values="0,0;0,320" dur="5s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,240" dur="5s" repeatCount="indefinite"/>
         </rect>
         <rect x="0" y="-12" width="854" height="2" fill="#c6ff3f" opacity="0.1">
-            <animateTransform attributeName="transform" type="translate" values="0,-160;0,160" dur="7s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="0,-120;0,120" dur="7s" repeatCount="indefinite"/>
         </rect>
     </g>
 
     <!-- Pixel-stepped neon border frame -->
-    <rect x="10" y="10" width="834" height="280" fill="none" stroke="#4dd9ec" stroke-width="3" stroke-dasharray="10 6" filter="url(#neonGlowCyan)">
+    <rect x="10" y="10" width="834" height="200" fill="none" stroke="#4dd9ec" stroke-width="3" stroke-dasharray="10 6" filter="url(#neonGlowCyan)">
         <animate attributeName="stroke-dashoffset" values="0;32" dur="2s" repeatCount="indefinite"/>
     </rect>
-    <rect x="18" y="18" width="818" height="264" fill="none" stroke="#c6ff3f" stroke-width="2" stroke-dasharray="6 4">
+    <rect x="18" y="18" width="818" height="184" fill="none" stroke="#c6ff3f" stroke-width="2" stroke-dasharray="6 4">
         <animate attributeName="stroke-dashoffset" values="32;0" dur="2.4s" repeatCount="indefinite"/>
     </rect>
 
     <!-- Floating pixel blocks -->
     <g>
         <rect x="-4" y="-4" width="8" height="8" fill="#4dd9ec" opacity="0.4">
-            <animateTransform attributeName="transform" type="translate" values="90,60; 130,80; 110,40; 90,60" dur="13s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="90,44; 130,59; 110,29; 90,44" dur="13s" repeatCount="indefinite"/>
         </rect>
     </g>
     <g>
         <rect x="-3" y="-3" width="6" height="6" fill="#c6ff3f" opacity="0.35">
-            <animateTransform attributeName="transform" type="translate" values="160,220; 190,240; 170,200; 160,220" dur="11s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="160,161; 190,176; 170,147; 160,161" dur="11s" repeatCount="indefinite"/>
         </rect>
     </g>
     <g>
         <rect x="-5" y="-5" width="10" height="10" fill="#4dd9ec" opacity="0.3">
-            <animateTransform attributeName="transform" type="translate" values="700,40; 730,60; 710,20; 700,40" dur="16s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="700,29; 730,44; 710,15; 700,29" dur="16s" repeatCount="indefinite"/>
         </rect>
     </g>
     <g>
         <rect x="-3" y="-3" width="6" height="6" fill="#c6ff3f" opacity="0.4">
-            <animateTransform attributeName="transform" type="translate" values="200,150; 220,130; 240,160; 200,150" dur="9s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="200,110; 220,95; 240,117; 200,110" dur="9s" repeatCount="indefinite"/>
         </rect>
     </g>
     <g>
         <rect x="-4" y="-4" width="8" height="8" fill="#c6ff3f" opacity="0.3">
-            <animateTransform attributeName="transform" type="translate" values="60,250; 90,270; 70,230; 60,250" dur="14s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="60,183; 90,198; 70,169; 60,183" dur="14s" repeatCount="indefinite"/>
         </rect>
     </g>
     <g>
         <rect x="-3" y="-3" width="6" height="6" fill="#4dd9ec" opacity="0.35">
-            <animateTransform attributeName="transform" type="translate" values="500,230; 530,250; 510,210; 500,230" dur="10s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="500,169; 530,183; 510,154; 500,169" dur="10s" repeatCount="indefinite"/>
         </rect>
     </g>
     <g>
         <rect x="-4" y="-4" width="8" height="8" fill="#4dd9ec" opacity="0.3">
-            <animateTransform attributeName="transform" type="translate" values="780,200; 750,180; 800,160; 780,200" dur="12s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="780,147; 750,132; 800,117; 780,147" dur="12s" repeatCount="indefinite"/>
         </rect>
     </g>
 
     <!-- Main text content -->
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="120" class="pixel-text" fill="#4dd9ec" filter="url(#neonGlowCyan)" stroke="none">
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="88" class="pixel-text" fill="#4dd9ec" filter="url(#neonGlowCyan)" stroke="none">
     &lt;NguyenNguyen0/&gt;<tspan class="cursor">_</tspan>
     </text>
 
     <!-- Description text -->
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="165" class="desc" fill="#c6ff3f" filter="url(#neonGlowYellow)" stroke="none">
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="133" class="desc" fill="#c6ff3f" filter="url(#neonGlowYellow)" stroke="none">
     &gt; Fullstack Developer ☆ Problem Solver ☆ Tech Enthusiast
     </text>
 </svg>
