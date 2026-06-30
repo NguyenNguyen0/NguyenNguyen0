@@ -83,70 +83,6 @@ const nguyen = {
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Chatbot Platform
-<p>
-  <a href="https://github.com/NguyenNguyen0/chatbot-fe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-fe&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NguyenNguyen0/chatbot-be">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=chatbot-be&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-**Tech Stack:** React • FastAPI • Ollama • TailwindCSS
-<br>
-*Intelligent chatbot with natural language processing capabilities*
-
----
-
-### 🖼️ Modern Album Manager
-<p>
-  <a href="https://github.com/NguyenNguyen0/album-fe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-fe&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NguyenNguyen0/album-be">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=album-be&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-**Tech Stack:** Next.js • Node.js • MongoDB • TailwindCSS
-<br>
-*Beautiful and responsive photo album management system*
-
----
-
-### 🧑 Developer Portfolio
-<p>
-  <a href="https://github.com/NguyenNguyen0/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=my-portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-**Tech Stack:** Next.js • TailwindCSS • Framer Motion
-<br>
-*Personal portfolio showcasing projects and skills*
-
----
-
-### 💸 Bill Calculator CLI
-<p>
-  <a href="https://github.com/NguyenNguyen0/bill-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNguyen0&repo=bill-calculator&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-**Tech Stack:** Python • CLI
-<br>
-*Efficient utility bill calculation tool*
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -170,25 +106,6 @@ const nguyen = {
   
 <img src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 
-</div>
-
----
-
-## 💭 Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n5uje7hfsknauf3wkfglkktyly&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n5uje7hfsknauf3wkfglkktyly&redirect=true)
 </div>
 
 ---
