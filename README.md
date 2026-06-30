@@ -109,22 +109,12 @@
   
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenNguyen0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D12&title_color=4DD9EC&icon_color=C6FF3F&text_color=E0E0E0"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D12&title_color=4DD9EC&text_color=E0E0E0"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D12&title_color=4DD9EC&text_color=E0E0E0"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenNguyen0&hide_border=true&background=0D0D12&ring=4DD9EC&fire=C6FF3F&currStreakLabel=4DD9EC&sideLabels=E0E0E0&dates=E0E0E0&currStreakNum=E0E0E0&sideNums=E0E0E0" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenNguyen0&hide_border=true&area=true&bg_color=0D0D12&color=4DD9EC&line=4DD9EC&point=C6FF3F" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=NguyenNguyen0&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 
 </div>
 
