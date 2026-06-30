@@ -52,7 +52,7 @@
 - 🌱 Learning **Go** and exploring **Cloud Architecture**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Spring, FastAPI, or System Design**
-- ⚡ Fun fact: I solve coding challenges for breakfast! 🍳
+- ⚡ Fun fact: I solve coding challenges for breakfast!
 
 </td>
 </tr>
