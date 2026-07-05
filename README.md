@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="./imgs/waving-header.svg" alt="Animated Header" width="100%">
+<img src="./imgs/header.svg" alt="Animated Header" width="100%">
 
 <img src="imgs/pixel-avatar.png" align="center" alt="Pixel Avatar" width="220">
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=2000&pause=1000&color=4DD9EC&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Building+Scalable+Web+Apps;Python+%E2%9D%A4%EF%B8%8F+TypeScript+%E2%9D%A4%EF%B8%8F+Java;Let's+Build+Something+Amazing!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=1000&pause=500&color=4DD9EC&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Building+Scalable+Web+Apps;Python+%E2%9D%A4%EF%B8%8F+TypeScript+%E2%9D%A4%EF%B8%8F+Java;Let's+Build+Something+Amazing!" alt="Typing SVG">
 </a>
 
 <!-- Social Badges with Hover Effect -->
@@ -30,21 +30,12 @@
 
 ## 🚀 About Me
 
-<img src="imgs/typing.gif" align="right" alt="Coding" width="400">
+I'm a **Full-Stack Developer** from 🇻🇳 Vietnam, passionate about building **scalable**, **cloud-native**, and **AI-powered** applications.
 
-```javascript
-const nguyen = {
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    role: "Fullstack Developer & AI Integration🗿",
-    currentFocus: "Building scalable web applications",
-    languages: ["Python", "TypeScript", "Python"],
-    frameworks: ["Spring", "Next.js", "FastAPI"],
-    interests: ["Web Development", "AI/ML", "Problem Solving"],
-    motto: "Code with passion, build with purpose 💡"
-};
-```
-
-<br clear="right"/>
+- 💻 Focused on **Backend Engineering**, **Distributed Systems**, and **AI Integration**
+- 🤖 Building intelligent applications with **LLMs**, **RAG**, and **Multi-Agent Systems**
+- ⚙️ Working primarily with **Java**, **Spring Boot**, **Python**, **FastAPI**, **TypeScript**, and **Next.js**
+- 🚀 Always learning, solving real-world problems, and crafting software that makes an impact
 
 ## 🛠️ Tech Arsenal
 
