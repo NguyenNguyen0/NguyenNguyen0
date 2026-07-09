@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="./imgs/header.svg" alt="Animated Header" width="100%">
+<img src="./imgs/header.svg" align="center" alt="Animated Header" width="100%">
 
-<img src="imgs/pixel-avatar.png" align="center" alt="Pixel Avatar" width="220">
+<img src="./imgs/pixel-avatar.png" align="center" alt="Pixel Avatar" width="220">
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
