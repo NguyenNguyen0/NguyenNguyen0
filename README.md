@@ -79,8 +79,8 @@ I'm a **Full-Stack Developer** from 🇻🇳 Vietnam, passionate about building 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenNguyen0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D12&title_color=4DD9EC&icon_color=C6FF3F&text_color=E0E0E0"/>
+
+<img height="180em" src="https://github-stats-extended-ecru-one.vercel.app/api?username=NguyenNguyen0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D12&title_color=4DD9EC&icon_color=C6FF3F&text_color=E0E0E0"/>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNguyen0&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D12&title_color=4DD9EC&text_color=E0E0E0"/> -->
 
