@@ -87,8 +87,7 @@ I'm a **Full-Stack Developer** from 🇻🇳 Vietnam, passionate about building 
 <img src="https://streak-stats.demolab.com/?user=NguyenNguyen0&hide_border=true&background=0D0D12&ring=4DD9EC&fire=C6FF3F&currStreakLabel=4DD9EC&sideLabels=E0E0E0&dates=E0E0E0&currStreakNum=E0E0E0&sideNums=E0E0E0" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenNguyen0&hide_border=true&area=true&bg_color=0D0D12&color=4DD9EC&line=4DD9EC&point=C6FF3F" width="100%"/>
-
+<img src="https://github-readme-activity-graph-six-lilac.vercel.app/graph?username=NguyenNguyen0&hide_border=true&area=true&bg_color=0D0D12&color=4DD9EC&line=4DD9EC&point=C6FF3F" width="100%"/>
 </div>
 
 ---
